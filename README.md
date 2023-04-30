@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto final programación backend
 ## Coderhouse - 32190
 ### Candela Dominguez Barco 
@@ -599,3 +600,7 @@ POST http://localhost:8080/api/pedido
 
 
 
+=======
+# ProyectoFinalBackend
+Proyecto final de backend Candela Dominguez Barco
+>>>>>>> 02c151287135d41b1c8c5cef96d8454baf63091a
